@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://bookcore.owns.it.com/sitemap.xml
+Sitemap: https://bookcore-ochre.vercel.app/sitemap.xml
