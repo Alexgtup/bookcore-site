@@ -1,2 +1,2 @@
-:HL["/bookcore-site/_next/static/chunks/3b2454pxx64k4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"authors","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cal-newport","siblings":["oscar-hartmann"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"IjELDnpu7Myndj9iWz6vj"}
+:HL["/bookcore-site/_next/static/chunks/15jpjajv7qhzf.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"authors","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cal-newport","siblings":["oscar-hartmann"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"PFKxuZDqwNxzBGrlUnH6e"}
