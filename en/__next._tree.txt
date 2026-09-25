@@ -1,2 +1,2 @@
-:HL["/bookcore-site/_next/static/chunks/0-7e9g6gy69nv.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"en","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ayDyl_w67dOxwXdNJCG6k"}
+:HL["/bookcore-site/_next/static/chunks/3idv5l5ahb56z.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"en","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"FXEsgRogDk9mJpDwug-_w"}
