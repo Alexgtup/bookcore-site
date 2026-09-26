@@ -261,6 +261,11 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://bookcore.pages.dev/books/richest-man-in-babylon/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://bookcore.pages.dev/topics/%D0%BF%D1%80%D0%B8%D0%B2%D1%8B%D1%87%D0%BA%D0%B8/</loc>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
@@ -726,6 +731,11 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://bookcore.pages.dev/en/books/richest-man-in-babylon/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://bookcore.pages.dev/en/topics/attention/</loc>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
@@ -747,6 +757,11 @@
 </url>
 <url>
 <loc>https://bookcore.pages.dev/en/topics/execution/</loc>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bookcore.pages.dev/en/topics/finance/</loc>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
 </url>

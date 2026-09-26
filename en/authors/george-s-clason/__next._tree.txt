@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/41jii53cciy4w.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"en","param":null,"prefetchHints":4192,"slots":{"children":{"name":"authors","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"george-s-clason","siblings":["oscar-hartmann"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"GBLy6btWW_Zg1F9F1aqFv"}
